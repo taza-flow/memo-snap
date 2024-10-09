@@ -1,2 +1,2 @@
 # memo-snap
-Travel photo diary
+Studying (developing) app to write a diary about travel
