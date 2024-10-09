@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "594766816357",
+    "project_id": "memo-snap-eb3aa",
+    "storage_bucket": "memo-snap-eb3aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594766816357:android:3229cf82bdf0fa0a46d28c",
+        "android_client_info": {
+          "package_name": "com.memosnap.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa-4MrNNCTnvocIMxn2XcHEJOQLSSm3mE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
